@@ -32,8 +32,6 @@ Atualmente, na **Prever**, lidero o desenvolvimento de um novo projeto de Chatbo
 | **Frontend** | React |
 | **Backend** | Django, APIs RESTful |
 | **Banco de Dados** | PostgreSQL |
-| **BI & Análise** | Metabase, Tableau, SQL |
-| **IA & Chatbots** | Conceitos de NLP |
 
 ---
 
