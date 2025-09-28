@@ -78,20 +78,24 @@ Atualmente, na **Prever**, lidero o desenvolvimento de um novo projeto de Chatbo
 </td>
 <td width="50%">
 
-### 📊 Experiência na Prever
-**Desenvolvimento FullStack - Criação de Design, Website, Banco de Dados e API**
+### 🤖 Experiência na Prever
 
-**🎯 Responsabilidades:**
-- 📈 Criação de dashboards em **Metabase** e **Tableau**
-- 🔍 Análises para **Product Managers**
-- 📋 Suporte analítico para equipes de produto
-- 📊 Relatórios estratégicos e KPIs
+**Desenvolvimento Fullstack - Foco na Criação e Evolução de um Chatbot Inteligente**
 
-**💼 Habilidades Desenvolvidas:**
-- Business Intelligence
-- Tradução de dados em insights práticos
-- Análise de métricas de produto
-- Visualização de dados para negócio
+#### 🚀 Responsabilidades:
+* **💻 Desenvolvimento e manutenção da arquitetura backend e frontend do chatbot.**
+* **🔗 Criação e gerenciamento de APIs para integração do chatbot com sistemas internos e externos.**
+* **🗄️ Modelação e otimização do banco de dados para armazenamento e consulta de interações e dados de usuários.**
+* **🧠 Implementação de fluxos de conversação, intenções e entidades em plataformas de NLP (Processamento de Linguagem Natural).**
+* **🤝 Colaboração com equipes de produto e UX para projetar e aprimorar a experiência do usuário no chatbot.**
+* **📈 Monitoramento da performance e análise de métricas de engajamento para identificar pontos de melhoria.**
+
+#### 🛠️ Habilidades Desenvolvidas:
+* **👨‍💻 Desenvolvimento Fullstack com foco em soluções de conversação.**
+* **🏗️ Arquitetura e implementação de chatbots.**
+* **🔄 Integração de sistemas via APIs RESTful.**
+* **📊 Análise e interpretação de dados de interação para aprimoramento de produtos de IA.**
+* **♻️ Gestão de ciclo de vida de software em projetos de inteligência artificial.**
 
 </td>
 </tr>
