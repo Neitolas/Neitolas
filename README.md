@@ -86,15 +86,13 @@ Atualmente, na **Prever**, lidero o desenvolvimento de um novo projeto de Chatbo
 * **💻 Desenvolvimento e manutenção da arquitetura backend e frontend do chatbot.**
 * **🔗 Criação e gerenciamento de APIs para integração do chatbot com sistemas internos e externos.**
 * **🗄️ Modelação e otimização do banco de dados para armazenamento e consulta de interações e dados de usuários.**
-* **🧠 Implementação de fluxos de conversação, intenções e entidades em plataformas de NLP (Processamento de Linguagem Natural).**
-* **🤝 Colaboração com equipes de produto e UX para projetar e aprimorar a experiência do usuário no chatbot.**
+* **🤝 Desenvolvimento e aperfeiçoamento UI/UX para projetar e aprimorar a experiência do usuário no chatbot.**
 * **📈 Monitoramento da performance e análise de métricas de engajamento para identificar pontos de melhoria.**
 
 #### 🛠️ Habilidades Desenvolvidas:
 * **👨‍💻 Desenvolvimento Fullstack com foco em soluções de conversação.**
 * **🏗️ Arquitetura e implementação de chatbots.**
 * **🔄 Integração de sistemas via APIs RESTful.**
-* **📊 Análise e interpretação de dados de interação para aprimoramento de produtos de IA.**
 * **♻️ Gestão de ciclo de vida de software em projetos de inteligência artificial.**
 
 </td>
@@ -116,33 +114,34 @@ Atualmente, na **Prever**, lidero o desenvolvimento de um novo projeto de Chatbo
 
 ---
 
-## 🎓 Formação & Desenvolvimento
+## 🎓 Formação & Aprendizado Contínuo
 
-- 💻 **Técnica em Desenvolvimento de Sistemas** - Completo
-- 🤖 **Bacharelado em Inteligência Artificial** - Em andamento
-- 📊 **Experiência Profissional** - Assistente de Dados na Tray
-- 📜 **Cursos DIO** - Desenvolvimento contínuo em Data Science
-- 🏅 **Kaggle** - Participação ativa em competições de ML
+- 🤖 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+  - *(Em andamento)*
+- 💻 **Técnico em Lógica da Programação**
+  - *(Completo)*
+- 📜 **Desenvolvimento Contínuo em FullStack**
+  - *Cursos e projetos na plataforma DIO e RocketSeat.*
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 📈 **Tray - Assistente de Dados**
-> Apoio analítico a Product Managers e equipes de produto
+### 📈 Estágiario em Análise e Desenvolvimento de Sistemas | Prever
+*Período: [09/2025] – Atualmente*
 
-**Principais Atividades:**
-- 📊 Desenvolvimento de dashboards estratégicos
-- 🔍 Análise de métricas de produto e performance
-- 📋 Relatórios executivos para tomada de decisão
-- 🤝 Colaboração direta com PMs e stakeholders
-- 🛠️ Uso diário de **Metabase** e **Tableau**
+> Foco no desenvolvimento de ponta a ponta de uma solução de inteligência artificial conversacional, atuando na arquitetura, implementação e integração do chatbot da Prever.
+
+**Principais Responsabilidades:**
+- **Desenvolvimento Fullstack:** Criação e manutenção da arquitetura backend com **Django** e do frontend com **React**, garantindo uma aplicação robusta e escalável para o chatbot.
+- **Integração e APIs:** Desenvolvimento e gerenciamento de APIs RESTful para conectar o chatbot com os sistemas internos da Prever e serviços de terceiros.
+- **Colaboração de Produto:** Trabalho em conjunto com a equipe, além do desenvolvimento e aperfeiçoamento de UX/UI e Produto com fins de projetar uma melhor experiência, desenvolver e iterar sobre a experiência do usuário, transformando requisitos de negócio em funcionalidades técnicas.
 
 ---
 
 ## 🤝 Vamos Conectar?
 
-Estou sempre interessada em discutir sobre **Gerenciamento de Produto/Projeto**, **Inovações da Tecnologia** e **Desenvolvimento FullStack**. Vamos trocar experiências!
+Estou sempre interessado em discutir sobre **Gerenciamento de Produto/Projeto**, **Inovações da Tecnologia** e **Desenvolvimento FullStack**. Vamos trocar experiências!
 
 <div align="center">
 
