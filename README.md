@@ -17,24 +17,31 @@
 
 ---
 
-### 🤖 Experiência na Prever
+## 📊 Sobre Mim
 
-**Desenvolvimento Fullstack - Foco na Criação e Evolução de um Chatbot Inteligente**
+Desenvolvedor Fullstack com experiência em análise de dados e Business Intelligence, atualmente focado na criação de soluções de conversação inteligentes. Cursando **Análise e Desenvolvimento de Sistemas**, busco aplicar minha paixão por tecnologia para construir produtos inovadores e centrados no usuário.
 
-#### 🚀 Responsabilidades:
-* **💻 Desenvolvimento e manutenção da arquitetura backend e frontend do chatbot.**
-* **🔗 Criação e gerenciamento de APIs para integração do chatbot com sistemas internos e externos.**
-* **🗄️ Modelação e otimização do banco de dados para armazenamento e consulta de interações e dados de usuários.**
-* **🧠 Implementação de fluxos de conversação, intenções e entidades em plataformas de NLP (Processamento de Linguagem Natural).**
-* **🤝 Colaboração com equipes de produto e UX para projetar e aprimorar a experiência do usuário no chatbot.**
-* **📈 Monitoramento da performance e análise de métricas de engajamento para identificar pontos de melhoria.**
+Atualmente, na **Prever**, lidero o desenvolvimento de um novo projeto de Chatbot, aplicando meus conhecimentos em backend, frontend e integrações para criar uma experiência fluida e eficiente para o usuário final.
 
-#### 🛠️ Habilidades Desenvolvidas:
-* **👨‍💻 Desenvolvimento Fullstack com foco em soluções de conversação.**
-* **🏗️ Arquitetura e implementação de chatbots.**
-* **🔄 Integração de sistemas via APIs RESTful.**
-* **📊 Análise e interpretação de dados de interação para aprimoramento de produtos de IA.**
-* **♻️ Gestão de ciclo de vida de software em projetos de inteligência artificial.**
+---
+
+### 💻 Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React |
+| **Backend** | Django, APIs RESTful |
+| **Banco de Dados** | PostgreSQL |
+| **BI & Análise** | Metabase, Tableau, SQL |
+| **IA & Chatbots** | Conceitos de NLP |
+
+---
+
+### 🌱 Meus Objetivos e Interesses
+
+- **🚀 Foco Atual:** Aprimorar minhas habilidades no desenvolvimento do Chatbot da Prever, utilizando o ecossistema Django e React.
+- **🎓 Especialização:** Aprofundar meus conhecimentos para me tornar um especialista em desenvolvimento Fullstack.
+- **📈 Futuro:** Tenho grande interesse na área de Gestão de Projetos e Produtos, buscando unir a visão técnica com a estratégia de negócio.
   
 ---
 
