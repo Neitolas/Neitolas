@@ -19,7 +19,7 @@
 
 ## 📊 Sobre Mim
 
-**Técnica em Desenvolvimento de Sistemas** cursando **Bacharelado em Inteligência Artificial**, atualmente trabalho como **Assistente de Dados na Tray**, onde apoio equipes de produto e product managers com análises e insights estratégicos.
+**Técnico em lógica de programação** cursando **Análise e Desenvolvimento de Sistemas**, atualmente trabalho como **Desenvolvedor Fullstack na Prever**, onde estou desenvolvendo um projeto de ChatBoy para o site da prever em conjunto com minha equipe.
 
 ### 🎯 Experiência Atual
 - 💼 **Assistente de Dados na Tray** - Apoio a equipes de produto e PMs
@@ -28,30 +28,34 @@
 - 📈 **Suporte Estratégico**: Análises para Product Managers
 
 ### 🌱 Estudando & Desenvolvendo
-- 🎓 **Bacharelado em Inteligência Artificial** (em andamento)
-- 🔭 **Projeto em destaque**: [Sistema de Predição de Churn](https://github.com/KobDias/churnPj) - **86% de acurácia**
-- 💡 **Aprendendo**: Machine Learning, Feature Engineering e Data Science
-- 🚀 **Interesse**: Aplicação de IA em produtos e análise preditiva
+- 🎓 **Análise e Desenvolvimento de Sistemas** (em andamento)
+- 🔭 **Projeto em destaque**:   Ainda Nenhum.
+- 💡 **Aprendendo**: React, Django e PostGreeSQL 
+- 🚀 **Interesse**: Especialização em FullStack e Gerenciamento de Projeto/Produto
 
 ---
 
 ## ⚙️ Stack Tecnológica
 
 ### 💻 **Linguagens & Ferramentas de Dev**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div
 
-### 📊 **Business Intelligence & Visualização**
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-### 🤖 **Data Science & Machine Learning**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### 🛠️ **Desenvolvimento & Versionamento**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,32 +63,11 @@
 
 ---
 
-## 🚀 Projetos & Experiências
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 [Sistema de Predição de Churn](https://github.com/KobDias/churnPj)
-**Modelo de ML para análise de rotatividade**
-
-**🏆 Resultados:**
-- ✅ **86% de acurácia** no modelo final
-- 🛠️ **Feature inovadora**: Tratamento automático de valores ausentes
-- 🔧 **Funcionalidade especial**: Zera atributos faltantes para análise contínua
-
-**💡 Aprendizados:**
-- Feature Engineering para dados faltantes
-- Técnicas de imputação e tratamento de missing values
-- Implementação de pipeline de dados robusto
-
-**🛠️ Stack:** Python, Pandas, Scikit-learn, XGBoost
-
 </td>
 <td width="50%">
 
-### 📊 Experiência na Tray
-**Assistente de Dados - Suporte a Produtos**
+### 📊 Experiência na Prever
+**Desenvolvimento FullStack - Criação de Design, Website, Banco de Dados e API**
 
 **🎯 Responsabilidades:**
 - 📈 Criação de dashboards em **Metabase** e **Tableau**
@@ -143,12 +126,12 @@
 
 ## 🤝 Vamos Conectar?
 
-Estou sempre interessada em discutir sobre **Data Science**, **IA aplicada a produtos** e **Business Intelligence**. Vamos trocar experiências!
+Estou sempre interessada em discutir sobre **Gerenciamento de Produto/Projeto**, **Inovações da Tecnologia** e **Desenvolvimento FullStack**. Vamos trocar experiências!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conversar!-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kobdias)
-[![Gmail](https://img.shields.io/badge/Gmail-Envie%20um%20email-red?style=for-the-badge&logo=gmail)](mailto:kobordias@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conversar!-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nathan-nogueira-carrara)
+[![Gmail](https://img.shields.io/badge/Gmail-Envie%20um%20email-red?style=for-the-badge&logo=gmail)](mailto:nathancarraranogueira@gmail.com)
 
 </div>
 
@@ -160,7 +143,7 @@ Estou sempre interessada em discutir sobre **Data Science**, **IA aplicada a pro
 
 <div align="center">
   
-**"De técnica em sistemas a IA: construindo o futuro, um dado por vez!"** 🚀
+**"De técnico em lógica e sistemas: construindo sonhos e carreira!"** 🚀
 
 ⭐ **Gostou do perfil? Deixe uma estrela nos repositórios!**
 
