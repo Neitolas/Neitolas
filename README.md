@@ -1,7 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Nathan Nogueira Carrara</h1>
 <h3 align="center">🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | Graduando em ADS | FullStack Developer</h3>
 
-- 🔭 Atualmente estou trabalhando com **Desenvolvimento FullStack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
