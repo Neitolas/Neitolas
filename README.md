@@ -9,7 +9,7 @@
 
 ###
 
-<a href="https://github.com/GuilhermeVicenteFigueira?tab=repositories">
+<a href="https://github.com/Neitolas?tab=stars">
     <img 
         alt="Total de estrelas" 
         title="Total de estrelas no GitHub" 
