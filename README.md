@@ -9,9 +9,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Neitolas.Neitolas&left_color=darkgray&right_color=crimson"  />
-</div>
+<a href="https://github.com/GuilhermeVicenteFigueira?tab=repositories">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/GuilhermeVicenteFigueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+</a>
 
 </div>
 
