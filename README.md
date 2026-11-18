@@ -1,8 +1,8 @@
 # Nathan Nogueira Carrara
 
-Engenharia de software · Desenvolvimento full stack · APIs e IA aplicada
+Analista de Sistemas | Requisitos, integração de APIs e SQL
 
-Desenvolvo interfaces, APIs e integrações com Python, Django, React e TypeScript. Na Prever Marília, participei do levantamento de requisitos e desenvolvi componentes do atendimento conversacional em colaboração com as equipes de IA e infraestrutura. A solução combina busca em documentos, embeddings, memória de conversa, modelos de linguagem e revisão de respostas. Na Connect Parts, trabalhei com modelagem MySQL e rotinas de backup e recuperação.
+Na Prever Marília, participei do levantamento de requisitos para um sistema de atendimento conversacional. Trabalhei nas integrações entre a interface em React e os serviços em Django, investiguei falhas com consultas PostgreSQL e participei da homologação com as equipes envolvidas. Na Connect Parts, trabalhei com modelagem de dados em MySQL e apoiei rotinas de backup e recuperação.
 
 ## Projetos
 
