@@ -16,6 +16,6 @@ Sou graduando em Análise e Desenvolvimento de Sistemas. Em novembro de 2025, do
 
 ## Tecnologias e formação
 
-Trabalho com APIs REST, SQL, PostgreSQL, MySQL, Git e interfaces web. Também tenho prática em projetos com Node.js, Next.js, MongoDB e GraphQL. Uso Figma como ferramenta de design. Minha formação inclui redes e sistemas operacionais, testes, arquitetura de software e DevOps. Tenho interesse em automação de fluxos com n8n, análise com Excel e hospedagem com HostGator.
+Trabalho com APIs REST, SQL, PostgreSQL, MySQL, Git e interfaces web. Também tenho prática em projetos com Node.js, Next.js, MongoDB e GraphQL. Uso Figma como ferramenta de design. Minha formação inclui sistemas operacionais, testes, arquitetura de software e DevOps. Na disciplina de Redes de Computadores da UNIMAR, estudei como uma requisição percorre uma rede cliente-servidor, desde o meio físico até o transporte. Os materiais abordam topologias, redes locais e sem fio, camadas OSI, encapsulamento, endereçamento IP e transporte com TCP. Tenho interesse em automação de fluxos com n8n, análise com Excel e hospedagem com HostGator.
 
 [LinkedIn](https://www.linkedin.com/in/devnathannogueiracarrara/) · [Portfólio](https://portifolio-nathannc.pages.dev/) · [DIO](https://web.dio.me/users/nathancarraranogueira)
