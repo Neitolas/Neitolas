@@ -1,169 +1,21 @@
-# 👋 Olá! Eu sou o Nathan Nogueira Carrara
-### 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | Graduando em ADS | FullStack Developer
+# Nathan Nogueira Carrara
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-nogueira-carrara)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathancarraranogueira@gmail.com)
-[![DIO](https://img.shields.io/badge/-DIO%20Profile-8A2BE2?style=for-the-badge)](https://web.dio.me/users/nathancarraranogueira)
+Engenharia de software · Desenvolvimento full stack · APIs e IA aplicada
 
-###
+Desenvolvo interfaces, APIs e integrações com Python, Django, React e TypeScript. Na Prever Marília, participei do levantamento de requisitos e desenvolvi componentes do atendimento conversacional em colaboração com as equipes de IA e infraestrutura. A solução combina busca em documentos, embeddings, memória de conversa, modelos de linguagem e revisão de respostas. Na Connect Parts, trabalhei com modelagem MySQL e rotinas de backup e recuperação.
 
-<a href="https://github.com/Neitolas?tab=stars">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Neitolas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
-</a>
+## Projetos
 
-</div>
+- [F.E.N.I.X.](https://github.com/Neitolas/fenix) reúne inventário urbano, mapa e alertas com React, Django, PHP e MySQL. O repositório inclui Docker Compose e testes de API e interface.
+- [RAG para sorveteria](https://github.com/Neitolas/rag-sorveteria) recupera itens de catálogo por similaridade para contextualizar respostas do modelo.
+- Na API de gestão de usuários, implementei operações CRUD com Django REST Framework, serializers, validação das entradas e persistência SQLite. [Casos e código no portfólio](https://portifolio-nathannc.pages.dev/projects/)
 
----
+## Pesquisa na UNIMAR
 
-## 📊 Sobre Mim
+Sou graduando em Análise e Desenvolvimento de Sistemas. Em novembro de 2025, dois trabalhos dos quais participei foram apresentados no XVI Simpósio de Iniciação Científica e XII Encontro de Pós-Graduação da UNIMAR. Sou autor do trabalho sobre jogos educacionais para o ensino de segurança do paciente a estudantes da saúde e coautor do Portal Cientifiq, voltado ao mapeamento e à divulgação da produção científica universitária.
 
-Desenvolvedor Fullstack com experiência em análise de dados e Business Intelligence, atualmente focado na criação de soluções de conversação inteligentes. Cursando **Análise e Desenvolvimento de Sistemas**, busco aplicar minha paixão por tecnologia para construir produtos inovadores e centrados no usuário.
+## Tecnologias e formação
 
-Atualmente, na **Prever**, lidero o desenvolvimento de um novo projeto de Chatbot, aplicando meus conhecimentos em backend, frontend e integrações para criar uma experiência fluida e eficiente para o usuário final.
+Trabalho com APIs REST, SQL, PostgreSQL, MySQL, Git e interfaces web. Também tenho prática em projetos com Node.js, Next.js, MongoDB e GraphQL. Uso Figma como ferramenta de design. Minha formação inclui redes e sistemas operacionais, testes, arquitetura de software e DevOps. Tenho interesse em automação de fluxos com n8n, análise com Excel e hospedagem com HostGator.
 
----
-
-### 💻 Tecnologias & Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | React |
-| **Backend** | Django, APIs RESTful |
-| **Banco de Dados** | PostgreSQL |
-
----
-
-### 🌱 Meus Objetivos e Interesses
-
-- **🚀 Foco Atual:** Aprimorar minhas habilidades no desenvolvimento do Chatbot da Prever, utilizando o ecossistema Django e React.
-- **🎓 Especialização:** Aprofundar meus conhecimentos para me tornar um especialista em desenvolvimento Fullstack.
-- **📈 Futuro:** Tenho grande interesse na área de Gestão de Projetos e Produtos, buscando unir a visão técnica com a estratégia de negócio.
-  
----
-
-## ⚙️ Stack Tecnológica
-
-### 💻 **Linguagens & Ferramentas de Dev**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div
-
----
-
-### 🛠️ **Desenvolvimento & Versionamento**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
----
-
-</td>
-<td width="50%">
-
-### 🤖 Experiência na Prever
-
-**Desenvolvimento Fullstack - Foco na Criação e Evolução de um Chatbot Inteligente**
-
-#### 🚀 Responsabilidades:
-* **💻 Desenvolvimento e manutenção da arquitetura backend e frontend do chatbot.**
-* **🔗 Criação e gerenciamento de APIs para integração do chatbot com sistemas internos e externos.**
-* **🗄️ Modelação e otimização do banco de dados para armazenamento e consulta de interações e dados de usuários.**
-* **🤝 Desenvolvimento e aperfeiçoamento UI/UX para projetar e aprimorar a experiência do usuário no chatbot.**
-* **📈 Monitoramento da performance e análise de métricas de engajamento para identificar pontos de melhoria.**
-
-#### 🛠️ Habilidades Desenvolvidas:
-* **👨‍💻 Desenvolvimento Fullstack com foco em soluções de conversação.**
-* **🏗️ Arquitetura e implementação de chatbots.**
-* **🔄 Integração de sistemas via APIs RESTful.**
-* **♻️ Gestão de ciclo de vida de software em projetos de inteligência artificial.**
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neitolas&show_icons=true&theme=dark&title_color=12d456&text_color=12d456&icon_color=12d456&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neitolas&layout=compact&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&hide=html,css,php,java&langs_count=6"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neitolas&theme=dark&hide_border=true&stroke=12d456&ring=12d456&fire=12d456&currStreakNum=12d456&sideNums=12d456&currStreakLabel=12d456&sideLabels=12d456&dates=12d456" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎓 Formação & Aprendizado Contínuo
-
-- 🤖 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-  - *(Em andamento)*
-- 💻 **Técnico em Lógica da Programação**
-  - *(Completo)*
-- 📜 **Desenvolvimento Contínuo em FullStack**
-  - *Cursos e projetos na plataforma DIO e RocketSeat.*
-
----
-
-## 💼 Experiência Profissional
-
-### 📈 Estágiario em Análise e Desenvolvimento de Sistemas | Prever
-*Período: [09/2025] – Atualmente*
-
-> Foco no desenvolvimento de ponta a ponta de uma solução de inteligência artificial conversacional, atuando na arquitetura, implementação e integração do chatbot da Prever.
-
-**Principais Responsabilidades:**
-- **Desenvolvimento Fullstack:** Criação e manutenção da arquitetura backend com **Django** e do frontend com **React**, garantindo uma aplicação robusta e escalável para o chatbot.
-- **Integração e APIs:** Desenvolvimento e gerenciamento de APIs RESTful para conectar o chatbot com os sistemas internos da Prever e serviços de terceiros.
-- **Colaboração de Produto:** Trabalho em conjunto com a equipe, além do desenvolvimento e aperfeiçoamento de UX/UI e Produto com fins de projetar uma melhor experiência, desenvolver e iterar sobre a experiência do usuário, transformando requisitos de negócio em funcionalidades técnicas.
-
----
-
-## 🤝 Vamos Conectar?
-
-Estou sempre interessado em discutir sobre **Gerenciamento de Produto/Projeto**, **Inovações da Tecnologia** e **Desenvolvimento FullStack**. Vamos trocar experiências!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conversar!-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nathan-nogueira-carrara)
-[![Gmail](https://img.shields.io/badge/Gmail-Envie%20um%20email-red?style=for-the-badge&logo=gmail)](mailto:nathancarraranogueira@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  
-**"De técnico em lógica e sistemas: construindo sonhos e carreira!"** 🚀
-
-⭐ **Gostou do perfil? Deixe uma estrela nos repositórios!**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/devnathannogueiracarrara/) · [Portfólio](https://portifolio-nathannc.pages.dev/) · [DIO](https://web.dio.me/users/nathancarraranogueira)
